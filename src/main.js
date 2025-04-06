@@ -17,7 +17,7 @@ async function initializeClerk() {
 
     app.innerHTML = `
       <div id="user-button" style="margin-bottom: 20px; position:fixed; top:17px; right:17px;"></div>
-      
+      <h1 style="margin-bottom: 20px;justify-content: center;align-items: center;">hello Everyone! </h1>
     `;
 
     // Mount Clerk User button
